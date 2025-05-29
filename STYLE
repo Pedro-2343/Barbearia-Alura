@@ -8,7 +8,12 @@
 	background: #CCCCCC;
 	padding: 30px;
 }
-
+.logo {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 35px;
+}
 .titulo-principal {
 	padding-left: 20px;
 }
@@ -38,7 +43,7 @@ em strong {
 	padding: 20px;
 }
 
-ul {
+.beneficios {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
